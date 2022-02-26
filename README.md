@@ -28,7 +28,9 @@ Procede con la compra del mismo seleccionado dos unidades, el cual genera una or
   A partir de la situación planteada, te pedimos:
 
   ● Diseñar un DER del modelo de datos que logre responder cada una de las preguntas mencionadas anteriormente.
+  
   ● Generar el script DDL para la creación de cada una de las tablas representadas en el DER. Enviarlo con el nombre “create_tables.sql”.
+  
   ● Generar el código SQL para responder cada una de las situaciones mencionadas anteriormente sobre el modelo diseñado. 
   
   Nombre solicitado: “respuestas_negocio.sql”
